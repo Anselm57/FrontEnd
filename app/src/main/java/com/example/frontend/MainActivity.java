@@ -15,11 +15,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        nextPage();
-    }
-
-    private void nextPage(){
-
         Button newGame = (Button) findViewById(R.id.newGame);
         newGame.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -30,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
 
 
 }
