@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FrontEnd</string>
+    <string name="wordly_text">WORDLY</string>
+    <string name="newGame">NEW GAME</string>
+    <string name="settings">SETTINGS</string>
+    <string name="end">This is the End</string>
+    <string name="back_button">BACK</string>
 </resources>
